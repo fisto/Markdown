@@ -7,4 +7,4 @@ _斜線_
 * リスト１
 * リスト２
 
-[google]: http://google.com/ "Google"
+[google]: http://google.com/  "Google"  
