@@ -1,13 +1,9 @@
-Markdown
-========
+# Markdown
 
-# Cap 1
-## Cap 2
-_強調_  
+## いろいろできるよ
 **強調**  
+_斜線_  
 
-
-List
-* list1
-* list2  
-README
+リスト
+* その１
+* その２
